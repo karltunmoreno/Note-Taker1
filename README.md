@@ -7,7 +7,7 @@ AS A USER I WOULD LIKE TO ENTER AND DELETE NOTES!
 _____________________________________________________________________________________________________________________________________________________________
 
 
-![Ss](https://media-exp1.licdn.com/dms/image/C5622AQFfo5xG4wQxmg/feedshare-shrink_800/0/1664775891694?e=1667433600&v=beta&t=TE8rso4fIJp3Qj-LP9AQa2sQTLoTHLFr07QoMEQwUic)
+![Ss](https://karltunmoreno.github.io/My-Portfolio/assets/images/notetakerpic.jpg)
 
 express-note-taker
 License: MIT
